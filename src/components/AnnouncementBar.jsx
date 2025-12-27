@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
 
 const announcements = [
+  "🎉 New Year Mega Sale is Live Now 🎉",
   "Cash on Delivery available",
   "New arrivals are here!",
   "Limited-time offer : Upto 50% off on all products",
   "Pakistan Best Premium Quality Fashion Wears",
   "Get Extra 5% OFF on Bank Payments",
-  "🎉 New Year Mega Sale is Live Now 🎉",
 ];
 
 export default function AnnouncementBar() {
