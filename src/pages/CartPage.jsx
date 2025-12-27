@@ -59,7 +59,7 @@ export default function CartPage() {
                   )}
 
                   <p className="text-gray-600">
-                    Unit: Rs {Number(unit).toLocaleString()}
+                    Price: Rs {Number(unit).toLocaleString()}
                   </p>
 
                   <p className="text-sm text-gray-500">
