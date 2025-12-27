@@ -6,7 +6,7 @@ const announcements = [
   "Limited-time offer : Upto 50% off on all products",
   "Pakistan Best Premium Quality Fashion Wears",
   "Get Extra 5% OFF on Bank Payments",
-  "12-12 Mega Sale is Live Now!",
+  "🎉 New Year Mega Sale is Live Now 🎉",
 ];
 
 export default function AnnouncementBar() {
